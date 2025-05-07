@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>AvatarTLA </title>
+    <link rel="stylesheet" type="text/css" href="GridExerciseStyle.css" >
+    
+</head>
+
+  <body>
+      
+      
+
+  <div class="parent">
+     <div id="div1"> <img id="banner" src="legend of korra.jpg" alt=""></div>  
+     <div id="div2"><p> <h1>AvatarTLA</h1> </p></div>
+     <div id="div3"> <img id="allimg" src="image.png" alt=""></div>
+     <div id="div4"><p><h2>The world of ATLA and TLOK consist of four major nations, those being "The Air Nomads", "The Fire Nation", "The Earth Kingdom" and "The Water Tribes"</h2></p></div>  
+     <div id="div5"><h3> This world its the elemental powers that govern, the four elements consist of Fire, Water, Air and Earth each element is unique and special in their own way, some are good for offence some for defence they each represent lifestyles and worldview. Downbelow i will tell you about the different elements.</h3></div>
+     <div id="div6"><p><h2>Fire is the element of power. The people of the Fire nationhave desire and will, and the energy and drive to achieve what they want.</h2></p></div>
+     <div id="div7"><p><h2>Earth is the element of substance. The people of the Earth Kingdom are diverse and strong. They are persistent and enduring.</h2></p></div>
+     <div id="div8"><p><h2>Air is the element of freedom. The Air Nomads detached themselves from worldly concerns, and they found peace and freedom. And they apparently had great senses of humor.</h2></p></div>
+     <div id="div9"><p><h2>Water is the element of change. The people of the Water Tribes are capable of adapting to many things. They have a sense of community and love that holds them together through anything.</h2></p></div>
+     <div id="div10"> <img id="allimg" src="elements.png" alt=""></div>
+     
+  </div>
+  
+  </body>
