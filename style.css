@@ -1,97 +1,81 @@
 h1{
     text-align: center;
-    color: aqua;
+    color:rgb(255, 255, 255);
+    background-color: black
 }
-
 h2{
-    text-align: center;
-    color:blue
-
+    text-align:  center;
+color: black
 }
-
 h3{
     text-align: center;
-    color: brown;
+color: black
 }
-
 h4{
     text-align: center;
-    color: blueviolet;
+color: black
 }
-
 h5{
-    text-align: center;
-    color: rgb(20, 183, 172);
+    text-align:center;
+color: black
 }
 h6{
     text-align: center;
-    color: rgb(32, 21, 5);
+color: black
 }
-P{
-    color: rgb(39, 15, 215);
-    background-color: rgb(38, 110, 155);
+
+p {
+    color: bisque;
+    
+    background-color: rgb(14, 124, 214);
     margin: 30px;
     padding: 20px;
-    border: solid 2px rgb(232, 213, 213)
-    ;}
-
-body{ 
-    background-color: rgb(190, 22, 145);
-        } 
-
-
-#p1{ 
-    color: rgb(141, 13, 69); 
-    background-color: bisque; 
+    border: solid 2px red
 }
-#p2{
-    color: rgb(15, 3, 27);
-    background-color: beige;
+body {
+    background-color: 
+    margin 0px
 }
-#p3{
-    color: rgb(38, 95, 144);
-    background-color: aquamarine;
- }
- .apple{
-    color: rgb(252, 4, 4);
-    font-size: 40px;
-    background-color: antiquewhite;
- }
-.organge{
-    color: rgb(246, 136, 2);
-    font-size: 40px;
-    background-color: aquamarine;
+main{
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 
-.div0ne h2 {
-    border: solid 5px blue;
-    background-color: rgb(13, 225, 225);
+
+
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+h1{
     text-align: center;
+    color: rgb(0, 0, 0);
 }
-
-.divOne  {
-    border: solid 5px red;
-    background-color: antiquewhite;
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(75, 70, 70);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{ 
+    color: aliceblue;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
     text-align: center;
-}
-
-
-.divOne  {
-    width: 300px;
-    height: 200px;
-    background-color: red;
+    
 
 }
-
-.divTwo {
-    width: 300px;
-    height: 200px;
-    background-color: yellow;
+.navbar li{
+    float: left; 
 }
 
-divThree {
-    width: 300px;
-    height: 200px;
-    background-color: blue;
+.navbar {
+    background-color: white;
 }
