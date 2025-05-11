@@ -1,7 +1,7 @@
 .flex-container {
   display: flex;
   flex-wrap: wrap;
-  background: radial-gradient(circle farthest-corner at center center, #43280e 0%, #381a07 100%);;
+  background: rgb(160, 111, 58);
   justify-content: space-around;
   height: 1000px;
 }
@@ -59,8 +59,8 @@ h1 {
 }
 
 #div4 {
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   background-size: 300px 50px;
   height: 50px;
   width: 300px;
@@ -72,16 +72,16 @@ h1 {
   width: 300px;
   border-radius: 50px;
   border-color: beige;
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   font-size: large;
   font-variant: small-caps;
   
 }
 
 #div5 {
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   background-size: 300px 50px;
   height: 50px;
   width: 300px; 
@@ -89,8 +89,8 @@ h1 {
 }
 
 #div5 button{
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   border-color: beige;
   background-size: 300px 50px;
   height: 50px;
@@ -102,8 +102,8 @@ h1 {
 }
 
 #div6 {
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   background-size: 300px 50px;
   height: 50px;
   width: 300px; 
@@ -112,8 +112,8 @@ h1 {
   
 
 #div6 button{
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   border-color: beige;
   font-variant: small-caps;
   background-size: 300px 50px;
@@ -152,8 +152,8 @@ h1 {
 }
 
 #div10 {
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   background-size: 300px 50px;
   height: 50px;
   width: 300px;
@@ -165,15 +165,15 @@ h1 {
   width: 300px;
   border-radius: 50px;
   border-color: beige;
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   font-size: large;
   font-variant: small-caps 
 }
 
 #div11 {
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   background-size: 300px 50px;
   height: 50px;
   width: 300px;
@@ -185,15 +185,15 @@ h1 {
   width: 300px;
   border-radius: 50px;
   border-color: beige;
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   font-size: large;
   font-variant: small-caps 
 }
 
 #div12 {
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   background-size: 300px 50px;
   height: 50px;
   width: 300px;
@@ -205,11 +205,14 @@ h1 {
   width: 300px;
   border-radius: 50px;
   border-color: beige;
-  background-color: rgb(151, 101, 60);
-  color: rgb(72, 32, 6);
+  color: rgb(151, 101, 60);
+  background-color: rgb(72, 32, 6);
   font-size: large;
   font-variant: small-caps 
 }
+
+
+  
 
 
 
