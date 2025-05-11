@@ -1,0 +1,160 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  background: pink;
+  background: hotpink;
+  justify-content: space-around;
+  height: 600px;
+}
+
+.flex-container> div{
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  text-align: center;
+  font-size: 30px;
+  color: pink;
+  background-color: plum;
+}
+
+h1 {
+  text-align: center;
+  background-color: pink;
+  color: plum;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  padding-top: 0px;
+  height: 50px;
+}
+
+#div1 {
+  background-color: palevioletred;
+  color: plum;
+  background-image: url(afig1.jpg);
+  background-size: 300px 300px;
+  height: 300px;
+  width: 300px;
+}
+
+#div2 {
+  background-color:peachpuff;
+  color: palevioletred;
+  background-image: url(avatar2.jpg);
+  background-size: 300px 300px;
+  height: 300px;
+  width: 300px;
+}
+
+
+
+#div3 {
+  background-color: pink;
+  color: plum;
+  background-image: url(avatar3.jpg);
+  background-size: 300px 300px;
+  height: 300px;
+  width: 300px;
+
+}
+
+#div4 {
+  background-color: pink;
+  color: hotpink;
+  background-size: 300px 50px;
+  height: 50px;
+  width: 300px;
+  border-radius: 50px; 
+}
+
+#div4 button{
+  height: 50px;
+  width: 300px;
+  border-radius: 50px;
+  border-color: pink;
+  background-color: palevioletred;
+  color: beige;
+
+}
+
+#div5 {
+  background-color: pink;
+  color: hotpink;
+  background-size: 300px 50px;
+  height: 50px;
+  width: 300px; 
+  border-radius: 50px;
+}
+
+#div5 button{
+  background-color: pink;
+  color: hotpink;
+  background-size: 300px 50px;
+  height: 50px;
+  width: 300px;
+  border-radius: 50px;
+}
+
+#div6 {
+  background-color: pink;
+  color: hotpink;
+  background-size: 300px 50px;
+  height: 50px;
+  width: 300px; 
+}
+
+#div7 {
+  background-color: palevioletred;
+  color: hotpink;
+  background-image: url(avatar1.jpg);
+  background-size: 300px 300px;
+  height: 300px;
+  width: 300px;
+}
+
+
+
+
+
+
+h1{
+  text-align: center;
+}
+
+body{
+  margin: 0px;
+}
+
+main{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.navbar{
+  list-style-type: none;
+  background-color: rgb(75, 70, 70);
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+.navbar a{
+  color: aliceblue;
+  text-decoration: double;
+  padding: 10px;
+  display: block; 
+  text-align: center;
+}
+
+.navbar a:hover{
+  background-color: rgb(53, 50, 50);
+}
+
+.navbar li{
+float: left;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
