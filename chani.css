@@ -236,7 +236,7 @@ main{
 .navbar a{
   color: rgb(171, 153, 122);
   text-decoration: double;
-  padding: 10px;
+  padding: 20px;
   display: block; 
   text-align: center;
 }
@@ -254,6 +254,13 @@ nav ul {
   padding: 0px;
   margin: 0px;
 }
+
+.nav-logo {
+    height: 60px; 
+    width: auto;
+    float: right;
+  }
+
 
 
 
