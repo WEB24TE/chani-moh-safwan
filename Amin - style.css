@@ -12,7 +12,7 @@ h1{
 .navbar a{ 
     color: aliceblue;
     text-decoration: none;
-    padding: 15px;
+    padding: 20px;
     display: block;
     text-align: center;
 }
@@ -22,3 +22,8 @@ h1{
 .navbar li{
     float: left; 
 }
+.nav-logo {
+    height: 60px; 
+    width: auto;
+    float: right;
+  }
