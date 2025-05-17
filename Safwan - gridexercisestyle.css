@@ -78,8 +78,20 @@
     grid-column: 5/7;
     grid-row: 7/11; 
 
+}
+
+#div12 {
+    background-color:orange;
+    grid-column: 5/7;
+    grid-row: 9/11; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    border: 1px solid red;
 
 }
+
 h1{
     text-align: center;
     color: rgb(0, 0, 0);
@@ -128,4 +140,22 @@ nav.navbar ul a{
     height: 60px; 
     width: auto;
     float: right;
+  }
+  
+.button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);   
+  }
+
+  #div12 button{
+    height: 100px;
+    width: 400px;
+    border-radius: 50px;
+    border-color: yellow;
+    background-color: beige;
+    color: black;
+    font-size: large;
+    font-variant: small-caps; 
   }
